@@ -1,6 +1,6 @@
 # Welkom bij <ORGANIZATION>
 
-Dit is de GitHub-organisatie van **<VAK / OPLEIDING>** (<STUDIEJAAR>). Voor
+Dit is de GitHub-organisatie van de minor Datavisualization (2026B1). Voor
 iedere opdracht krijg je hier een **eigen, privé repository**. Alleen jij en
 je docenten kunnen die zien — je medestudenten niet.
 

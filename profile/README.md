@@ -1,12 +1,13 @@
-# Welkom bij <ORGANIZATION>
+# Welkom bij ZM005-2026B1
 
-Dit is de GitHub-organisatie van de minor Datavisualization (2026B1). Voor
+Dit is de GitHub-organisatie van **Zelfstandig Multimedia 005** (2026–2027, blok 1). Voor
 iedere opdracht krijg je hier een **eigen, privé repository**. Alleen jij en
 je docenten kunnen die zien — je medestudenten niet.
 
 ## 📁 Mijn repositories
 
-👉 **[Bekijk mijn repositories](https://github.com/orgs/<ORGANIZATION>/repositories)**
+👉 **[Bekijk mijn repositories](https://github.com/orgs/ZM005-2026B1/repositories)**
+(of klik bovenaan deze pagina op het tabblad **Repositories**).
 
 Je ziet daar alleen de repositories waar jij toegang toe hebt. Ze heten altijd:
 

@@ -1,6 +1,6 @@
 # Welkom bij ZM005-2026B1
 
-Dit is de GitHub-organisatie van **minor Datavisualization** (2026B1). Voor
+Dit is de GitHub-organisatie van **Zelfstandig Multimedia 005** (2026–2027, blok 1). Voor
 iedere opdracht krijg je hier een **eigen, privé repository**. Alleen jij en
 je docenten kunnen die zien — je medestudenten niet...
 
@@ -54,21 +54,25 @@ In het kort:
   deze organisatie.
 - Zet je repository **niet op public** en deel je werk niet met medestudenten.
 - Commit **geen wachtwoorden, API-keys of persoonsgegevens**.
-- Commit regelmatig met duidelijke commit messages — dat helpt je docent én
-  jezelf.
+- Commit regelmatig. Je hoeft de standaard commit messages niet aan te
+  passen, maar het mág wel — dat helpt je docent én jezelf.
+- Open slechts **1 pull request**. Als je je werk ingeleverd hebt en toch nog
+  iets moet wijzigen, doe je dat gewoon door de bestanden in de `gh-pages`
+  branch te overschrijven. Al deze aanpassingen worden meegenomen door die
+  ene pull request.
 - Verkeerde branch, te veel pull requests, of helemaal vastgelopen? Meld het
   bij je docent; die kan je repository **terugzetten naar de startcode**
   (let op: je werk in die repository gaat dan verloren).
 
-## 🗄️ Bewaar je werk
+## 🗄️ Je werk blijft bewaard
 
-Aan het einde van het blok of studiejaar worden de opdracht-repositories
-**opgeruimd**. Wil je je werk bewaren? **Clone of download je repository**
-zelf vóór die tijd.
+Je repositories worden **niet verwijderd**. Het kan wel zijn dat je na een
+deadline alleen nog **leesrechten** hebt: je kunt dan niets meer aanpassen,
+maar je werk wel gewoon **bekijken, clonen of downloaden**.
 
-## 🔗 Handige links
+## 🔗 Handleiding
 
-- [GitHub Docs: Hello World](https://docs.github.com/get-started/start-your-journey/hello-world)
-- [Een pull request maken](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-- [GitHub Pages](https://docs.github.com/pages/getting-started-with-github-pages)
-- [GitHub Desktop](https://desktop.github.com/) · [Git downloaden](https://git-scm.com/downloads)
+Alles over GitHub voor dit vak — account, uitnodiging, branches, GitHub Pages,
+pull requests en veelvoorkomende problemen — staat in onze eigen handleiding:
+
+👉 **https://cmd-viscom.gitbook.io/github**

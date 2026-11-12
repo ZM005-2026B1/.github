@@ -1,5 +1,16 @@
 # Welkom bij ZM005-2026B1
 
+* Team 01: https://zm005-2026b1.github.io/team01/
+* Team 02: https://zm005-2026b1.github.io/team02/
+* Team 03: https://zm005-2026b1.github.io/team03/
+* Team 04: https://zm005-2026b1.github.io/team04/
+* Team 05: https://zm005-2026b1.github.io/team05/
+* Team 07: https://zm005-2026b1.github.io/team07/
+* Team 08: https://zm005-2026b1.github.io/team08/
+* Team 10: https://zm005-2026b1.github.io/team10/
+* Team 11: https://zm005-2026b1.github.io/team11/
+* Team 12: https://zm005-2026b1.github.io/team12/
+
 Dit is de GitHub-organisatie van **ZM005** (2026-2027, blok 1). Voor
 iedere opdracht krijg je hier een **eigen, privé repository**. Alleen jij en
 je docenten kunnen die zien — je medestudenten niet.
